@@ -11,5 +11,7 @@ return array;
 }
 
 function whileLoop(n){
-  while
+   let countdown = Namespace
+   
+   while (countdown)
 }
