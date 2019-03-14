@@ -19,4 +19,6 @@ function whileLoop(n){
 return "done";
 }
 
-function maybeTrue()
+function maybeTrue() {
+  Math.random()
+}
