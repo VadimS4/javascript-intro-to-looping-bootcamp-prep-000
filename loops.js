@@ -13,5 +13,7 @@ return array;
 function whileLoop(n){
    let countdown = Namespace
    
-   while (countdown)
+   while (countdown > 0){
+     console.log(n)
+   }
 }
