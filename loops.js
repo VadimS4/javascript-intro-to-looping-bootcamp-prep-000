@@ -20,5 +20,5 @@ return "done";
 }
 
 function maybeTrue() {
-  Math.random()
+  Math.random() >= 0.5
 }
