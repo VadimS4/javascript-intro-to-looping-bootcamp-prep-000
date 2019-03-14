@@ -14,6 +14,6 @@ function whileLoop(n){
    let countdown = Namespace
    
    while (countdown > 0){
-     console.log(n)
+     console.log(--countdown)
    }
 }
