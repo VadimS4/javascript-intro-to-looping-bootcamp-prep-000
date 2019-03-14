@@ -24,5 +24,5 @@ function maybeTrue() {
 }
 
 function doWhileLoop(array){
-  do array
+  do {array.pop}
 }
