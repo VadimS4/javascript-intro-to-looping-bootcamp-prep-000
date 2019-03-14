@@ -29,5 +29,6 @@ function doWhile(int){
 
   do {
    console.log("I run once regardless");
-}  while (incrementVariable() < i);
+  }  
+  while (incrementVariable() < i);
 }
